@@ -20,7 +20,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/jamescun/tuntap"
+	"tuntap"
 )
 
 func main() {
